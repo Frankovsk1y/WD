@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Revalia&family=Roboto:wght@400;500&display=swap');
+.container{
+    max-width: 1105px;
+    margin: 0 auto;
+}
+.logo-nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 57px;
+
+}
+.nav-link{
+    font-family: Roboto;
+    font-size: 16px;
+    text-decoration: none;
+    padding-left: 42px;
+}
+.active{
+    color: #34547A;
+}
+.img-fluid{
+    max-width: 96px;
+    max-height: 69px;
+}
+.navbar{
+    display: flex;
+
+}
+.design{
+    max-width: 1105px;
+    max-height: 297px;
+    display: flex;
+    margin: 144px auto;
+}
+.design__text__center{
+    margin-left: 139px;
+    align-items: left;
+}
+.design__title{
+    font-family: Roboto;
+    font-size: 48px;
+}
+.design__text{
+    font-family: Roboto;
+    font-size: 16px;
+    color: #727272;
+    margin-top: 60px;
+}
+.design__button{
+    max-width: 242px;
+    max-height: 65px;
+    background-color: #34547A;
+    font-family: Roboto;
+    font-size: 16px;
+    color: white;
+    padding: 25px 44px;
+    border: none;
+    margin-top: 60px;
+}
+.frame{
+    max-width: 385px;
+    max-height: 234px;
+    margin-top: 32px;
+}
